@@ -1,4 +1,3 @@
-# cmsc110-2019
 1. Sunday (Day 1) (03/31/2019)
 
 + Breakfast:
